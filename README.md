@@ -11,7 +11,7 @@
      The given program calculates the wind chill index using the temperature and wind
     speed entered by the user. The wind chill index is an estimate of how cold the air
     feels to the human body, taking into account the cooling effect of the wind on the
-    skin.
+    skin.<br>
 prompts the user to enter the wind speed in kilometers per hour and the
 temperature in degrees Celsius using the input() function.
 <br>The program calculates the wind chill index using the formula: <br>
@@ -20,3 +20,15 @@ where t is the temperature in degrees Celsius and v is the wind speed in kilomet
 per hour.<br>
 Output :<br>
 The calculated wind chill index is then rounded to the nearest integer       
+
+##SELECTIVE STATEMENT PROGRAMS :
+<P>4, Accept a number from the user and check whether it's a positive number or not.
+5, Accept three sides of the triangle and check whether the triangle is possible or not.
+6, Check if the nth power of a number is even or not (get the number and the power as
+an input).
+7, ACB - Omni Bus Company, has decided to give a traveling fare concession for the
+Senior Citizen as 20%, the actual fare will be Rs 1020. The upper age limit for
+Senior Citizens is Above ‘60’.
+For verification, they will ask for the date of birth (Take Year alone), and if satisfied,
+they will be given concession and will be displayed the final traveling charge, if not
+original fare will be displayed.</p>
