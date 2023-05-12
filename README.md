@@ -11,7 +11,7 @@
       <P style="padding-left=10px;">The given program calculates the wind chill index using the temperature and wind
     speed entered by the user. The wind chill index is an estimate of how cold the air
     feels to the human body, taking into account the cooling effect of the wind on the
-    skin.</p> <br>
+    skin.</p>
 prompts the user to enter the wind speed in kilometers per hour and the
 temperature in degrees Celsius using the input() function.
 The program calculates the wind chill index using the formula:.
