@@ -43,18 +43,18 @@ More than 6 Years and Less than 10 - 8%<br>
 Less than 6 Years - 5%<br>
 Ask the user to enter the salary and year of service and print their bonus.<br><br>
 10, The rules for determining whether or not a year is a leap year follow:<br>
-<pre>● Any year that is divisible by 400 is a leap year.<br>
+● Any year that is divisible by 400 is a leap year.<br>
 ● Of the remaining years, any year that is divisible by 100 is not a leap year.<br>
 ● Of the remaining years, any year that is divisible by 4 is a leap year.<br>
-● All other years are not leap years.</pre><br>
-<pre>Write a program that reads a year from the user and displays a message indicating</pre><br>
-<pre>whether or not it is a leap year.</pre><br>
-<pre>Sample Input 1<br>
+● All other years are not leap years.<br>
+Write a program that reads a year from the user and displays a message indicating<br>
+whether or not it is a leap year.<br>
+Sample Input 1<br>
 1900<br>
 Sample Output 1<br>
 1900 is not a leap year<br>
 Sample Input 2<br>
 2000<br>
 Sample Output 2<br>
-2000 is a leap year</pre>  
+2000 is a leap year 
    </p>
