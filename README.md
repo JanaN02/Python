@@ -22,13 +22,13 @@ Output :<br>
 The calculated wind chill index is then rounded to the nearest integer       
 
 ##SELECTIVE STATEMENT PROGRAMS :
-<P>4, Accept a number from the user and check whether it's a positive number or not.
-5, Accept three sides of the triangle and check whether the triangle is possible or not.
+<P>4, Accept a number from the user and check whether it's a positive number or not.<br>
+5, Accept three sides of the triangle and check whether the triangle is possible or not.<br>
 6, Check if the nth power of a number is even or not (get the number and the power as
-an input).
+an input).<br>
 7, ACB - Omni Bus Company, has decided to give a traveling fare concession for the
 Senior Citizen as 20%, the actual fare will be Rs 1020. The upper age limit for
-Senior Citizens is Above ‘60’.
+Senior Citizens is Above ‘60’.<br>
 For verification, they will ask for the date of birth (Take Year alone), and if satisfied,
 they will be given concession and will be displayed the final traveling charge, if not
 original fare will be displayed.</p>
