@@ -37,7 +37,7 @@ blood donation camp will be the people should be above ‘18’ and his/her weig
 should be above 40. The volunteers will enter the name, age and weight of the
 person, then it will display whether they are Eligible or not.<br>
 Display ‘1’ if they are eligible and ‘0’ if they are not eligible.<br><br>
-7. A Company has decided to give BONUS to their Employees based on their Service.<br>
+9, A Company has decided to give BONUS to their Employees based on their Service.<br>
 More than 10 YEARS - 10%<br>
 More than 6 Years and Less than 10 - 8%<br>
 Less than 6 Years - 5%<br>
