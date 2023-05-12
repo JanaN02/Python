@@ -21,7 +21,7 @@ per hour.<br>
 Output :<br>
 The calculated wind chill index is then rounded to the nearest integer       
 
-## SELECTIVE STATEMENT PROGRAMS :
+#### SELECTIVE STATEMENT PROGRAMS :
 <P>4, Accept a number from the user and check whether it's a positive number or not.<br><br>
 5, Accept three sides of the triangle and check whether the triangle is possible or not.<br><br>
 6, Check if the nth power of a number is even or not (get the number and the power as
