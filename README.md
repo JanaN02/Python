@@ -4,8 +4,8 @@
 1, Write a Python program to solve the equation z = |x − y| * (x + y) <br> <br>
 2, Write a Python program to calculate the surface volume and area of a cylinder. <br>
         Formula: <br>
-            Volume = pi * radius * radius * height <br>
-           <p>Surface area of a cylinder = ((2*pi*radius)*height) + ((pi*radius**2)*2)</p>
+         <p>Volume = pi * radius * radius * height <br>
+            Surface area of a cylinder = ((2*pi*radius)*height) + ((pi*radius**2)*2)</p>
 
 3, Write a Python program to calculate the wind chill index. <br>
      The given program calculates the wind chill index using the temperature and wind
@@ -18,5 +18,5 @@ temperature in degrees Celsius using the input() function.
 <p>13.12 + 0.6215*t - 11.37*v**0.16 + 0.3965*t*v**0.16</p> <br>
 where t is the temperature in degrees Celsius and v is the wind speed in kilometers
 per hour.<br>
-Output<br>
+Output :<br>
 The calculated wind chill index is then rounded to the nearest integer       
