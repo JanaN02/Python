@@ -56,7 +56,7 @@ Sample Output 1<br>
 Sample Input 2<br>
 2000<br>
 Sample Output 2<br>
-2000 is a leap year <br>
+2000 is a leap year <br><br>
 11, Restaurant Tip Calculator:<br>
 Steps:<br>
 Ratings will be: 1 is bad, 2 is not bad, 3 is average, 4 is good, and 5 is excellent.<br>
@@ -73,5 +73,11 @@ If the food is average, okay, or bad:<br>
 &nbsp &nbsp Service and ambience are also good or excellent.<br>
 &nbsp &nbsp &nbsp Then the tip is 5% of your bill amount.<br>
 &nbsp &nbsp Service and ambience are average/okay/bad.<br>
-&nbsp &nbsp &nbsp Then the tip is 1% of your bill amount.
+&nbsp &nbsp &nbsp Then the tip is 1% of your bill amount.<br> <br>
+12, Accept the name, age, gender (‘M’ or ‘F’), number of days, and display the wages accordingly.<br>
+Age: greater than or equal to 18 and greater than 30, gender: "M”, then wages will be Rs 700 per day.<br>
+Age: greater than or equal to 18 and less than 30, gender: "F" then wages will be Rs 750 per day.<br>
+If age is greater than or equal to 30 and less than or equal to 40, and gender is "M’, then wages will be Rs 800 per day.<br>
+Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then wages will be Rs 800 per day.<br>
+
 </p>
