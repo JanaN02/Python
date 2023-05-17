@@ -1,16 +1,16 @@
 # Python Programs 
    #### ✦ Upper progrms questions are given below this,
 
-&nbsp 1, Write a Python program to solve the equation z = |x − y| * (x + y) <br> <br>
-&nbsp 2, Write a Python program to calculate the surface volume and area of a cylinder. <br><br>
-        &nbsp &nbsp Formula: <br>
-         &nbsp &nbsp &nbsp <p>Volume = pi * radius * radius * height <br>
-           &nbsp &nbsp  &nbsp Surface area of a cylinder = ((2*pi*radius)*height) + ((pi*radius**2)*2)</p>
+1, Write a Python program to solve the equation z = |x − y| * (x + y) <br> <br>
+2, Write a Python program to calculate the surface volume and area of a cylinder. <br><br>
+     Formula: <br>
+       <p>Volume = pi * radius * radius * height <br>
+        Surface area of a cylinder = ((2*pi*radius)*height) + ((pi*radius**2)*2)</p>
 
-&nbsp 3, Write a Python program to calculate the wind chill index. <br><br>
-&nbsp      The given program calculates the wind chill index using the temperature and wind
- &nbsp    speed entered by the user. The wind chill index is an estimate of how cold the air
- &nbsp    feels to the human body, taking into account the cooling effect of the wind on the
+ 3, Write a Python program to calculate the wind chill index. <br><br>
+      The given program calculates the wind chill index using the temperature and wind
+   speed entered by the user. The wind chill index is an estimate of how cold the air
+   feels to the human body, taking into account the cooling effect of the wind on the
     skin.<br>
 prompts the user to enter the wind speed in kilometers per hour and the
 temperature in degrees Celsius using the input() function.
@@ -22,11 +22,11 @@ Output :<br>
 The calculated wind chill index is then rounded to the nearest integer       
 
 #### SELECTIVE STATEMENT PROGRAMS :
-&nbsp <P>4, Accept a number from the user and check whether it's a positive number or not.<br><br>
-&nbsp 5, Accept three sides of the triangle and check whether the triangle is possible or not.<br><br>
-&nbsp 6, Check if the nth power of a number is even or not (get the number and the power as
+<P>4, Accept a number from the user and check whether it's a positive number or not.<br><br>
+ 5, Accept three sides of the triangle and check whether the triangle is possible or not.<br><br>
+ 6, Check if the nth power of a number is even or not (get the number and the power as
 an input).<br><br>
-&nbsp 7, ACB - Omni Bus Company, has decided to give a traveling fare concession for the
+ 7, ACB - Omni Bus Company, has decided to give a traveling fare concession for the
 Senior Citizen as 20%, the actual fare will be Rs 1020. The upper age limit for
 Senior Citizens is Above ‘60’.<br>
 For verification, they will ask for the date of birth (Take Year alone), and if satisfied,
@@ -42,23 +42,23 @@ More than 10 YEARS - 10%<br>
 More than 6 Years and Less than 10 - 8%<br>
 Less than 6 Years - 5%<br>
 Ask the user to enter the salary and year of service and print their bonus.<br><br>
-&nbsp 10, The rules for determining whether or not a year is a leap year follow:<br>
-&nbsp &nbsp  ● Any year that is divisible by 400 is a leap year.<br>
-&nbsp &nbsp ● Of the remaining years, any year that is divisible by 100 is not a leap year.<br>
-&nbsp &nbsp  ● Of the remaining years, any year that is divisible by 4 is a leap year.<br>
-&nbsp &nbsp ● All other years are not leap years.<br><br>
-&nbsp Write a program that reads a year from the user and displays a message indicating<br>
-&nbsp whether or not it is a leap year.<br><br>
-&nbsp Sample Input 1<br>
-&nbsp 1900<br>
-&nbsp Sample Output 1<br>
-&nbsp 1900 is not a leap year<br>
-&nbsp Sample Input 2<br>
-&nbsp 2000<br>
-&nbsp Sample Output 2<br>
-&nbsp 2000 is a leap year <br><br>
-&nbsp 11, Restaurant Tip Calculator:<br>
-&nbsp &nbsp Steps:<br>
+ 10, The rules for determining whether or not a year is a leap year follow:<br>
+ ● Any year that is divisible by 400 is a leap year.<br>
+ ● Of the remaining years, any year that is divisible by 100 is not a leap year.<br>
+   ● Of the remaining years, any year that is divisible by 4 is a leap year.<br>
+ ● All other years are not leap years.<br><br>
+ Write a program that reads a year from the user and displays a message indicating<br>
+ whether or not it is a leap year.<br><br>
+ Sample Input 1<br>
+ 1900<br>
+ Sample Output 1<br>
+ 1900 is not a leap year<br>
+ Sample Input 2<br>
+ 2000<br>
+ Sample Output 2<br>
+ 2000 is a leap year <br><br>
+ 11, Restaurant Tip Calculator:<br>
+ Steps:<br>
 Ratings will be: 1 is bad, 2 is not bad, 3 is average, 4 is good, and 5 is excellent.<br>
 Read Food Rating: 1-5 <br>
 Read Service Rating: 1-5<br>
