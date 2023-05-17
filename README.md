@@ -65,13 +65,13 @@ Read Service Rating: 1-5<br>
 Read Ambience Rating: 1–5<br>
 Read the bill's amount.<br>
 If the food is good or excellent:<br>
-&nbsp Service and ambience are also good or excellent.<br>
-&nbsp &nbsp Then the tip is 10% of your bill amount.<br>
-&nbsp Service and ambience are average/okay/bad.<br>
-&nbsp &nbsp Then the tip is 5% of your amount.<br>
+&nbsp &nbsp Service and ambience are also good or excellent.<br>
+&nbsp &nbsp &nbsp Then the tip is 10% of your bill amount.<br>
+&nbsp &nbsp Service and ambience are average/okay/bad.<br>
+&nbsp &nbsp &nbsp Then the tip is 5% of your amount.<br>
 If the food is average, okay, or bad:<br>
-&nbsp Service and ambience are also good or excellent.<br>
-&nbsp &nbsp Then the tip is 5% of your bill amount.<br>
-&nbsp Service and ambience are average/okay/bad.<br>
-&nbsp &nbsp Then the tip is 1% of your bill amount.
+&nbsp &nbsp Service and ambience are also good or excellent.<br>
+&nbsp &nbsp &nbsp Then the tip is 5% of your bill amount.<br>
+&nbsp &nbsp Service and ambience are average/okay/bad.<br>
+&nbsp &nbsp &nbsp Then the tip is 1% of your bill amount.
 </p>
