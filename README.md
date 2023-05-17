@@ -42,7 +42,7 @@ More than 10 YEARS - 10%<br>
 More than 6 Years and Less than 10 - 8%<br>
 Less than 6 Years - 5%<br>
 Ask the user to enter the salary and year of service and print their bonus.<br><br>
- 10, The rules for determining whether or not a year is a leap year follow:<br>
+10, The rules for determining whether or not a year is a leap year follow:<br>
  ● Any year that is divisible by 400 is a leap year.<br>
  ● Of the remaining years, any year that is divisible by 100 is not a leap year.<br>
    ● Of the remaining years, any year that is divisible by 4 is a leap year.<br>
@@ -57,7 +57,7 @@ Ask the user to enter the salary and year of service and print their bonus.<br><
  2000<br>
  Sample Output 2<br>
  2000 is a leap year <br><br>
- 11, Restaurant Tip Calculator:<br>
+11, Restaurant Tip Calculator:<br>
  Steps:<br>
 Ratings will be: 1 is bad, 2 is not bad, 3 is average, 4 is good, and 5 is excellent.<br>
 Read Food Rating: 1-5 <br>
