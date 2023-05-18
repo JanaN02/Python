@@ -87,7 +87,20 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp &nbsp (inclusive of 20 and 50)<br>
 &nbsp Sample Output:<br>
 &nbsp &nbsp Even : 16<br>
-&nbsp &nbsp Odd : 15<br>
+&nbsp &nbsp Odd : 15<br><br>
+15,Write a program to display the factors of a given number.<br>
+&nbsp Sample Input<br>
+&nbsp &nbsp 56<br>
+&nbsp Sample output<br>
+&nbsp &nbsp 1, 2, 4, 7, 8, 14, 28, 56<br><br>
+16, Write a program to display the prime in the given range. <br>
+&nbsp Sample Input<br>
+&nbsp  1<br>
+&nbsp  10<br>
+&nbsp  Sample Output<br>
+&nbsp  2 , 3 , 5 , 7<br>
+
+
 
 
 </p>
