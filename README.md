@@ -79,6 +79,15 @@ Age: greater than or equal to 18 and greater than 30, gender: "M”, then wages 
 Age: greater than or equal to 18 and less than 30, gender: "F" then wages will be Rs 750 per day.<br>
 If age is greater than or equal to 30 and less than or equal to 40, and gender is "M’, then wages will be Rs 800 per day.<br>
 Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then wages will be Rs 800 per day.<br><br>
-13, String slice concept example program in python.
+13, String slice concept example program in python.<br><br>
+14, Write a program to display the count of even and odd numbers in a given range.<br>
+&nbsp Sample Input<br>
+&nbsp &nbsp Start: 20<br>
+&nbsp &nbsp End : 50<br>
+&nbsp &nbsp (inclusive of 20 and 50)<br>
+&nbsp Sample Output:<br>
+&nbsp &nbsp Even : 16<br>
+&nbsp &nbsp Odd : 15<br>
+
 
 </p>
