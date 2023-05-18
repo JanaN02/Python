@@ -101,7 +101,6 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp  2 , 3 , 5 , 7<br><br>
 17, Write a program to display the multiplication table as below <br>
 &nbsp Sample Input <br>
-&nbsp Sample Input <br>
 &nbsp 5 <br>
 &nbsp Sample Output <br>
 &nbsp 5 * 1 = 5 <br>
@@ -114,11 +113,34 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp Start Table : 5<br>
 &nbsp End Table: 8<br><br>
 &nbsp Sample Output<br>
-&nbsp 5 * 1 = 5	&nbsp	6 * 1 = 6 &nbsp	7 *1 = 7	8*1 = 8<br>
-&nbsp 5 * 2 = 10	&nbsp	6*2 = 12	7*2=14 &nbsp	8*2= 16<br>
+&nbsp 5 * 1 = 5	&nbsp	&nbsp 6 * 1 = 6 &nbsp &nbsp	7 *1 = 7	8*1 = 8<br>
+&nbsp 5 * 2 = 10	&nbsp &nbsp	6*2 = 12	7*2=14 &nbsp &nbsp	8*2= 16<br>
 &nbsp .<br>
 &nbsp .<br>
 &nbsp 5 * 10 = 50		<br><br>
+19, Write a program to display the multiplication table as below with a given range<br>
+&nbsp Sample Input<br>
+&nbsp Start Table : 5<br>
+&nbsp End Table: 8<br>
+&nbsp Sample Output:<br>
+&nbsp &nbsp 5*1 = 5<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp 5 * 5 = 25<br>
+&nbsp &nbsp 6*1 = 6<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp 6*6=36<br>
+&nbsp &nbsp 7*1=7<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp 7*7=49<br>
+&nbsp &nbsp 8*1=8<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp .<br>
+&nbsp &nbsp 8*8=64<br><br>
 
 
 
