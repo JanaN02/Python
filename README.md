@@ -98,7 +98,28 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp  1<br>
 &nbsp  10<br>
 &nbsp  Sample Output<br>
-&nbsp  2 , 3 , 5 , 7<br>
+&nbsp  2 , 3 , 5 , 7<br><br>
+17, Write a program to display the multiplication table as below <br>
+&nbsp Sample Input <br>
+&nbsp Sample Input <br>
+&nbsp 5 <br>
+&nbsp Sample Output <br>
+&nbsp 5 * 1 = 5 <br>
+&nbsp 5 * 2 = 10 <br>
+&nbsp . <br>
+&nbsp . <br>
+&nbsp 5 * 10 = 50 <br><br>
+18, Write a program to display the multiplication table as below with a given range<br>
+&nbsp Sample Input<br>
+&nbsp Start Table : 5<br>
+&nbsp End Table: 8<br><br>
+&nbsp Sample Output<br>
+&nbsp 5 * 1 = 5	&nbsp	6 * 1 = 6 &nbsp	7 *1 = 7	8*1 = 8<br>
+&nbsp 5 * 2 = 10	&nbsp	6*2 = 12	7*2=14 &nbsp	8*2= 16<br>
+&nbsp .<br>
+&nbsp .<br>
+&nbsp 5 * 10 = 50		<br><br>
+
 
 
 
