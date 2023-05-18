@@ -78,6 +78,7 @@ If the food is average, okay, or bad:<br>
 Age: greater than or equal to 18 and greater than 30, gender: "M”, then wages will be Rs 700 per day.<br>
 Age: greater than or equal to 18 and less than 30, gender: "F" then wages will be Rs 750 per day.<br>
 If age is greater than or equal to 30 and less than or equal to 40, and gender is "M’, then wages will be Rs 800 per day.<br>
-Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then wages will be Rs 800 per day.<br>
+Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then wages will be Rs 800 per day.<br><br>
+13, String slice concept example program in python.
 
 </p>
