@@ -140,7 +140,16 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp &nbsp 8*1=8<br>
 &nbsp &nbsp .<br>
 &nbsp &nbsp .<br>
-&nbsp &nbsp 8*8=64<br><br>
+&nbsp &nbsp 8*8=64<br><br><br>
+20,Write a program to display the Amstrong numbers in the given range<br>
+&nbsp Enter lower range: 100<br>
+&nbsp Enter upper range: 1000<br>
+&nbsp The armstrong numbers are:<br> 
+&nbsp 153<br>
+&nbsp 370<br>
+&nbsp 371<br>
+&nbsp 407<br><br>
+
 
 
 
