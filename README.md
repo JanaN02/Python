@@ -153,7 +153,11 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 Function Programs :<br><br>
 21,Write a Python code with the function interest_calculation() which calculates the simple interest. The program should take the name of the customer, age of the customer, gender (‘M’ or ‘F’), principal amount (P), and number of years (N) as input.
 If the customer is a senior citizen, fix the rate of interest (R) at 12%, if the customer is “female,” fix the rate of interest (R) at 10%; and for others, fix the rate of interest (R) at 9%.<br>
-The function should take P, N, and R values as parameters. 
+The function should take P, N, and R values as parameters. <br><br>
+22,The below picture includes five geometrical shapes. You have to write Python code that includes five different functions: sphere(), cylinder(), cone(), rectangular_prism(), and triangular_prism(). You should get the respective values in the formula for the shapes, and they should be passed to the function as a parameter. If any of the shapes include "π” (pi), then pi value should be passed as the default argument, and functions should return the SURFACE AREA AND VOLUME of the respective geometrical shapes. <br>
+The formula for calculating the surface area and volume of the shapes is given in the picture. <br>
+
+
 
 
 
