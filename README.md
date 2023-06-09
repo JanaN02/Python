@@ -150,6 +150,11 @@ Age: greater than or equal to 30 and less than or equal to 40; gender: "F," then
 &nbsp 371<br>
 &nbsp 407<br><br>
 
+Function Programs :
+21,Write a Python code with the function interest_calculation() which calculates the simple interest. The program should take the name of the customer, age of the customer, gender (‘M’ or ‘F’), principal amount (P), and number of years (N) as input.
+If the customer is a senior citizen, fix the rate of interest (R) at 12%, if the customer is “female,” fix the rate of interest (R) at 10%; and for others, fix the rate of interest (R) at 9%.<br>
+The function should take P, N, and R values as parameters. 
+
 
 
 
