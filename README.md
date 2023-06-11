@@ -170,7 +170,7 @@ Power : 3<br>
 Sample Output:<br>
 125<br><br>
    
-String Programs : <br><br
+String Programs : <br><br>
 26,Write a Python program to display a string made of the first 2 and last 2 characters of a given string. If the string length is less than 2, return the empty string instead.<br>
 Sample Input<br>
 Property<br>
