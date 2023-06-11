@@ -157,6 +157,45 @@ The function should take P, N, and R values as parameters. <br><br>
 22,Write a python code which checks whether the input number is a Perfect Square of not using a function.<br><br>
 23,The below picture includes five geometrical shapes. You have to write Python code that includes five different functions: sphere(), cylinder(), cone(), rectangular_prism(), and triangular_prism(). You should get the respective values in the formula for the shapes, and they should be passed to the function as a parameter. If any of the shapes include "π” (pi), then pi value should be passed as the default argument, and functions should return the SURFACE AREA AND VOLUME of the respective geometrical shapes. <br>
 The formula for calculating the surface area and volume of the shapes is given in the picture. <br><br>
+24,Write a Python code to find the nth term of the Fibonacci series using RECURSION.<br>
+Sample Input:<br>
+5<br>
+Sample Output:<br>
+3<br><br>
+25,Write a Python function that takes base and power as arguments and calculates the power of numbers.<br>
+Sample Input:<br>
+To Calculate 5 to the power of 3 then, enter the input as<br>
+Base : 5<br>
+Power : 3<br>
+Sample Output:<br>
+125<br><br>
+   
+String Programs : <br><br
+26,Write a Python program to display a string made of the first 2 and last 2 characters of a given string. If the string length is less than 2, return the empty string instead.<br>
+Sample Input<br>
+Property<br>
+Sample Output<br>
+Prty<br>
+27,Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.<br>
+Sample Input<br>
+Mike<br>
+Dice<br>
+Sample Output<br>
+Dike<br>
+Mice<br><br>
+28,Write a Python function which finds the length of the string, if the length of the string is multiple of 5, reverse the string and capitalize all the characters.<br><br>
+29,Write a python program which reads your mail id, and extract the username from the mail id and generate the password such as username and the reverse of it.<br>
+Sample Input<br>
+Enter the email id: bvishnu2731@gmail.com<br>
+Sample Output<br>
+Username - bvishnu2731<br>
+Password - bvishnu27311372UNHSIVB<br>
+The username is the first part of the Gmail address, before the @ symbol.<br> 
+Password will be the combination of username followed by the reverse uppercase of the username.<br><br>
+
+
+                     
+
 
 
 
