@@ -34,16 +34,24 @@ Sample Output<br>
 Original list : [10, 12, 13, 16, 19]<br>
 Yes, the list is in ascending order.<br><br>
 3,Given two strings, PRINT (YES or NO) whether the second string can be obtained from the first by deletion of none, one or more characters<br><br>
-4,Write a python program to convert tuple to a string<br><br>
+4,a,Write a python program to convert tuple to a string<br><br>
 Sample Input <br>
 tuple=(‘p’, ‘ y’, ’t’,, ‘h’, ’o’, ’n’)<br>
 Sample Output<br>
-python<br>
-Write a python program to reverse a tuple<br>
+python<br><br>
+b,Write a python program to reverse a tuple<br>
 Sample Input <br>
 tuples = ('a','b','c','d','e','f','g','h')<br>
 Sample Output <br>
 ('h', 'g', 'f', 'e', 'd', 'c', 'b', 'a')<br><br>
+5,Write a python program to check if a set is a subset of another set.<br>
+Sample Input <br>
+a={1,2,3,4}<br>
+b={1,2,3}<br>
+Sample Output <br>
+True<br><br>
+
+
 
 </p>
 
