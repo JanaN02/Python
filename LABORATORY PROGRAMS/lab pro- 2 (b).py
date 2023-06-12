@@ -8,6 +8,12 @@ print("Original list : ",a)
 
 c=int(input("Enter the element to be found : "))
 
-d=len(a)-a.index(c)
-print("Positive index : ",a.index(c))
-print("Negative index : -",d)
+posi=[]
+nega=[]
+d=len(n)
+for i in range(0,d):
+    if n[i]==a:
+        posi.append(i)
+        nega.append(-len(n)+i)
+print("Positive index: ",posi)
+print("Negative index : ",nega)
