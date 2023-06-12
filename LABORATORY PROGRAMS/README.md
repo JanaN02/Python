@@ -50,6 +50,9 @@ a={1,2,3,4}<br>
 b={1,2,3}<br>
 Sample Output <br>
 True<br><br>
+6,Write a python program to iterate over dictionaries using for loop.<br><br>
+
+
 
 
 
