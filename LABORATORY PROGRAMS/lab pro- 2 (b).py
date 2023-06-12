@@ -1,19 +1,18 @@
-n=int(input("Enter number of elements in list : "))
-a=list()
+a=int(input("Enter number elements in list : "))
 
-for i in range(0,n):
+I=list()
+for i in range(0,a):
     b=int(input("Enter the value : "))
-    a.append(b)
-print("Original list : ",a)
+    I.append(b)
+print("Original list : ",I)
+b=0
+c=I[:]
+c.sort()
 
-c=int(input("Enter the element to be found : "))
+if (c==I):
+    b=1
 
-posi=[]
-nega=[]
-d=len(n)
-for i in range(0,d):
-    if n[i]==a:
-        posi.append(i)
-        nega.append(-len(n)+i)
-print("Positive index: ",posi)
-print("Negative index : ",nega)
+if (b):
+    print("Yes, the list is in assending order")
+else:
+    print("No, the list is not in assening order")
