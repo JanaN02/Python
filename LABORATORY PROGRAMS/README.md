@@ -32,7 +32,19 @@ enter the value - 16<br>
 enter the value - 19<br><br>
 Sample Output<br>
 Original list : [10, 12, 13, 16, 19]<br>
-Yes, the list is in ascending order.<br><br></p>
+Yes, the list is in ascending order.<br><br>
+3,Given two strings, PRINT (YES or NO) whether the second string can be obtained from the first by deletion of none, one or more characters<br><br>
+4,Write a python program to convert tuple to a string<br><br>
+Sample Input <br>
+tuple=(‘p’, ‘ y’, ’t’,, ‘h’, ’o’, ’n’)<br>
+Sample Output<br>
+python<br>
+Write a python program to reverse a tuple<br>
+Sample Input <br>
+tuples = ('a','b','c','d','e','f','g','h')<br>
+Sample Output <br>
+('h', 'g', 'f', 'e', 'd', 'c', 'b', 'a')<br><br>
+
 </p>
 
 
